@@ -1,0 +1,1 @@
+The moment calculated from solidworks for statics lecture 2, example 4, is 1.54e03 lbf*in, which is 128.3 lbf*ft when converted- showing 1.8% deviation from calculated value.

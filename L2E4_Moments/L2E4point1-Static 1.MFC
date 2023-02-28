@@ -1,0 +1,16 @@
+[StartTime]
+L2E4point1-Static 1.MFC=54m:11s
+[SolverState]
+L2E4point1-Static 1.MFC=1
+[MainFrame]
+L2E4point1-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAPNDAAAAA
+[ShowMin]
+L2E4point1-Static 1.MFC=No
+[SolverType]
+L2E4point1-Static 1.MFC=Linear Analysis
+[StudyType]
+L2E4point1-Static 1.MFC=0
+[StudyName]
+L2E4point1-Static 1.MFC=Static 1
+[Solver]
+L2E4point1-Static 1.MFC=Sparse
