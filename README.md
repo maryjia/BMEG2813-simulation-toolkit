@@ -13,3 +13,7 @@ You will need to do the following:
 4.	Add the screenshots to a word document and upload to Blackboard under the Simulation Toolkit Extra Credit assignment
 5.	Complete 5-10 minutes Qualtrics survey (the survey link will be provided to you on Blackboard).  
 Within each file containing an assembly or part, there is also a completed simulation that you may use as a reference if you are stuck.
+# Troubleshooting
+If you are getting the error saying that the requested folder is unavailable, make sure that your file path does not begin with engrdocs.uark.edu\shares. Make sure that the top search bar has something along the lines of This PC > Local Disk (C: on ~). Do this by scrolling down in the browser on the left.
+
+The reason why you need to do this is because SOLIDWORKS through Citrix is a virtually hosted program, and its by default going to try and read the files on the school's file network. I'll attach a picture to the box to show you what to look for.
