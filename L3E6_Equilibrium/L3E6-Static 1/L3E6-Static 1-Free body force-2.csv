@@ -1,0 +1,19 @@
+15:11, Tuesday, March 09, 2021
+Study name:Static 1
+
+Free Body Force (N)
+
+Component  ,Selection  ,Entire Model
+Sum X:  ,117.94  ,0.00076962
+Sum Y:  ,-1011.6  ,0.0043542
+Sum Z:  ,-1583.4  ,0.0045531
+Resultant:  ,1882.6  ,0.0063468
+
+
+Free Body Moment (N.m)
+
+Component  ,Selection  ,Entire Model
+Sum X:  ,0.  ,0.
+Sum Y:  ,0.  ,0.
+Sum Z:  ,0.  ,0.
+Resultant:  ,0.  ,0.

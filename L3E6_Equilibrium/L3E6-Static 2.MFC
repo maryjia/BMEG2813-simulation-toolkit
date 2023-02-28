@@ -1,0 +1,16 @@
+[StartTime]
+L3E6-Static 2.MFC=2s
+[SolverState]
+L3E6-Static 2.MFC=2
+[MainFrame]
+L3E6-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+L3E6-Static 2.MFC=No
+[SolverType]
+L3E6-Static 2.MFC=Linear Analysis
+[StudyType]
+L3E6-Static 2.MFC=0
+[StudyName]
+L3E6-Static 2.MFC=Static 2
+[Solver]
+L3E6-Static 2.MFC=Iterative
