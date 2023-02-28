@@ -1,0 +1,19 @@
+15:25, Wednesday, March 10, 2021
+Study name:HW1 Study
+
+Free Body Force (lbf)
+
+Component  ,Selection  ,Entire Model
+Sum X:  ,0.0077426  ,0.069027
+Sum Y:  ,-0.035805  ,-0.3038
+Sum Z:  ,0.047887  ,0.31278
+Resultant:  ,0.060292  ,0.44146
+
+
+Free Body Moment (lbf.in)
+
+Component  ,Selection  ,Entire Model
+Sum X:  ,-4881.4  ,-28.929
+Sum Y:  ,-1.2541  ,2.1967
+Sum Z:  ,0.93608  ,5.5875
+Resultant:  ,4881.4  ,29.545
